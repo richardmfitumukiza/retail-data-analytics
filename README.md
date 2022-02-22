@@ -1,2 +1,4 @@
 # retail-data-analytics
-Tasked  used  achieved  
+Tasked  
+used  
+achieved  
